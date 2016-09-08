@@ -1,1 +1,2 @@
-this is just for check.
+git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080
+git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080
